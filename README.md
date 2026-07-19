@@ -27,14 +27,23 @@ You also have the code here so just copy it and paste it wherever you want.
 The generated file is split into 27 organized sections. Here is just a taste of what is inside:
 
 💸 Full SQLite Economy: Balances, daily rewards (with streaks!), working, robbing, depositing, coinflips, and a global leaderboard.
+
 🛡️ Moderation: Ban, kick, timeout, purge, nuke channels, lock/unlock, slowmode, and a persistent warning system.
+
 🎫 Ticket System: A fully functional dropdown-based ticket system with categories.
+
 🎨 UI Showcase: Working examples of every Discord UI element: Primary/Danger buttons, String Selects, Role Selects, and Modals (Popups).
+
 🎲 Fun & Utility: 8ball, rock-paper-scissors, wanted posters, avatar stealers, ping, uptime, and server info.
+
 🗣️ Voice Commands: Join, leave, mute, deafen, and move members.
+
 📈 Leveling System: XP tracking and rank commands.
+
 📝 Tags & Suggestions: Custom server tags and an approve/deny suggestion system.
-🤝 Support & Donations
+
+``🤝 Support & Donations``
+
 I am a young developer who built this tool to help the community. If this package saved you hours of coding and you'd like to buy me a coffee (or an energy drink), you can donate using Crypto!
 
 Bitcoin (BTC): bc1qfhywc6fvt57wclj48kw63grz4ztxrdfd8c3r36
@@ -45,3 +54,5 @@ Ethereum (ETH): 0x2AF7de0a3D630E2e4fc27E02a1F3c3C2D198FA08
 
 📝 License
 This project is open-source and licensed under the MIT License. Feel free to use the generated code in your own public or private bots!
+
+``This project will be archived after 4 years of updates (1 or 2 updates every month)``
